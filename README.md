@@ -1,1 +1,4 @@
-# Moss tutorial
+# Usage
+```
+$ sh unzip.sh
+```
